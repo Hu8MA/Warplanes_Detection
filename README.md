@@ -12,3 +12,7 @@ Since the architecture is pre-trained, this is the cause of compatibility proble
 1 Since I have lifted the weights, therefore, when using the code, you do not need to do training, just do a discovery (i.e. step 7, you do not need to implement it)
 
 2 Pay attention to the paths because the code deals with data found in (Google Drive)
+
+
+# Honors and achievements
+Because of my work on this project, I got the degree of excellence from the supervisor, as well as the degree of excellence from the discussion committee, and also praise from the committee and the supervisor for presenting a new and smart idea with my integration of my field in the military field 😀😄💪
