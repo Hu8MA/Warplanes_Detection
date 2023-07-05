@@ -1,0 +1,12 @@
+#The test rate was approved 15% (903 images), where 85% remains, of which 70% is for training (4347 images) and for verification 15%
+#(768 images)
+
+train: ./data/train  # 4346 images
+val: ./data/val # 768 images
+test: ./data/test # 903 of 40670 images 
+
+# number of classes
+nc: 5
+
+# class names
+names: ['C130', 'F15', 'F16', 'F18', 'V22']
